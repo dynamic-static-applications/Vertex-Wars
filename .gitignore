@@ -1,0 +1,8 @@
+
+[Bb]uild/
+[_-][Bb]uild/
+[Cc][Mm]ake[Bb]uild/
+[Cc][Mm]ake[_-][Bb]uild/
+latex
+html
+.vs
